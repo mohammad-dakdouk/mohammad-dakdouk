@@ -25,7 +25,7 @@ I'm working on personal projects to strengthen my development skills. I'll be ad
 
 🤝 Connect With Me
 
-- 💼 "LinkedIn" (https://www.linkedin.com/in/mohammad-dakdouk-1b1068391/)
+- 💼 "LinkedIn" (https://www.linkedin.com/in/mohammad-dakdouk)
 - 📧 Email: mohammaddakdoukk@gmail.com
 - 🐙 "GitHub" (https://github.com/mohammad-dakdouk)
 
